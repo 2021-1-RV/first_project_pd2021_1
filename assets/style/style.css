@@ -7,14 +7,27 @@ p{
     background-color: blanchedalmond;
 }
 
-h1{
-    color: khaki;
+#p1{
+    color:fuchsia;
+}
+
+#p2{
+    color: lightpink;
 }
 
 h3{
     color: indianred;
+    opacity: 0.3;
 }
 
 h5{
     color: goldenrod;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.bigfont{
+    font-size: 20px;
 }
